@@ -62,6 +62,13 @@ void HAL_CAN_RxFifo0MsgPendingCallback(CAN_HandleTypeDef *hcan)
   }
 }
 ```
+# 硬體
+![image](https://github.com/bmmno-Roy/F407_FreeRTOS_CAN/blob/main/IMG/hardware.jpg)
 
+# 最終呈現
+![image](https://github.com/bmmno-Roy/F407_FreeRTOS_CAN/blob/main/IMG/UART.png)
+
+### cangaroo 監控匯流排資料
+![image](https://github.com/bmmno-Roy/F407_FreeRTOS_CAN/blob/main/IMG/cangaroo.png)
 
 
